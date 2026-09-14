@@ -1,0 +1,15 @@
+#BlueJ class context
+#Sun Sep 13 23:57:46 CST 2026
+comment0.target=GestorTickets
+comment1.target=GestorTickets()
+comment2.params=t
+comment2.target=void registrarTecnico(Tecnico)
+comment3.params=s
+comment3.target=void registrarSolicitante(Solicitante)
+comment4.params=titulo desc prioridad sol
+comment4.target=Ticket crearTicket(java.lang.String, java.lang.String, java.lang.String, Solicitante)
+comment5.params=id
+comment5.target=Ticket buscarTicket(int)
+comment6.params=id
+comment6.target=void verFlujoDeTicket(int)
+numComments=7

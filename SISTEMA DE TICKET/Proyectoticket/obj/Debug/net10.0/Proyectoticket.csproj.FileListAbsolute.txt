@@ -1,0 +1,14 @@
+/Users/macbookpro/Desktop/logica/Proyectoticket/bin/Debug/net10.0/Proyectoticket
+/Users/macbookpro/Desktop/logica/Proyectoticket/bin/Debug/net10.0/Proyectoticket.deps.json
+/Users/macbookpro/Desktop/logica/Proyectoticket/bin/Debug/net10.0/Proyectoticket.runtimeconfig.json
+/Users/macbookpro/Desktop/logica/Proyectoticket/bin/Debug/net10.0/Proyectoticket.dll
+/Users/macbookpro/Desktop/logica/Proyectoticket/bin/Debug/net10.0/Proyectoticket.pdb
+/Users/macbookpro/Desktop/logica/Proyectoticket/obj/Debug/net10.0/Proyectoticket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/logica/Proyectoticket/obj/Debug/net10.0/Proyectoticket.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/logica/Proyectoticket/obj/Debug/net10.0/Proyectoticket.AssemblyInfo.cs
+/Users/macbookpro/Desktop/logica/Proyectoticket/obj/Debug/net10.0/Proyectoticket.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/logica/Proyectoticket/obj/Debug/net10.0/Proyectoticket.dll
+/Users/macbookpro/Desktop/logica/Proyectoticket/obj/Debug/net10.0/refint/Proyectoticket.dll
+/Users/macbookpro/Desktop/logica/Proyectoticket/obj/Debug/net10.0/Proyectoticket.pdb
+/Users/macbookpro/Desktop/logica/Proyectoticket/obj/Debug/net10.0/Proyectoticket.genruntimeconfig.cache
+/Users/macbookpro/Desktop/logica/Proyectoticket/obj/Debug/net10.0/ref/Proyectoticket.dll

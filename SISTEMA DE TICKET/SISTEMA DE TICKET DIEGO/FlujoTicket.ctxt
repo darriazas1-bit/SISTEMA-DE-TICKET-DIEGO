@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sun Sep 13 23:57:46 CST 2026
+comment0.target=FlujoTicket
+comment1.params=strEstadoAnterior strEstadoNuevo strResponsable
+comment1.target=FlujoTicket(java.lang.String, java.lang.String, java.lang.String)
+comment2.target=java.lang.String toString()
+numComments=3

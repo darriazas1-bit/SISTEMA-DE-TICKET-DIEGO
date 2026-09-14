@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Sep 13 23:57:46 CST 2026
+comment0.target=Tecnico
+comment1.params=strNombre strCorreo strTelefono strEspecialidad intCargaMaxima
+comment1.target=Tecnico(java.lang.String, java.lang.String, java.lang.String, java.lang.String, int)
+comment2.target=boolean tieneCapacidad()
+comment3.target=void aumentarCarga()
+comment4.target=void reducirCarga()
+comment5.target=int getIntCargaActual()
+numComments=6
